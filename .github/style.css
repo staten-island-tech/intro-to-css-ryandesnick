@@ -51,3 +51,11 @@ a:visited {
   border: 3px orange;
   box-sizing: border-box;
 }
+
+.main-block {
+  float: right;
+  width: 60%;
+}
+
+.sidebar {
+}
