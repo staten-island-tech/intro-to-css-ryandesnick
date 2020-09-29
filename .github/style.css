@@ -9,3 +9,7 @@ body {
   font-size: large;
   font-stretch: extra-expanded;
 }
+
+h3 {
+  color: red;
+}
