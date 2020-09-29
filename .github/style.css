@@ -1,0 +1,63 @@
+h1 {
+  color: white;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-stretch: extra-expanded;
+  list-style: armenian;
+}
+
+h3 {
+  color: red;
+}
+
+.list1 {
+  color: rgb(0, 191, 255);
+  font-style: italic;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  text-decoration: wavy;
+  text-transform: capitalize;
+  letter-spacing: 0.05em;
+  word-spacing: 10px;
+}
+
+p {
+  margin: 20px;
+  border: 5px red solid;
+  border-radius: 4px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: orange;
+}
+
+.block {
+  float: left;
+  width: 33.3%;
+  padding: 10px;
+  border: 3px orange;
+  box-sizing: border-box;
+}
+
+.main-block {
+  float: right;
+  width: 60%;
+}
+
+.sidebar {
+  float: left;
+  width: 30%;
+}
