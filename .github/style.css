@@ -46,7 +46,7 @@ a:visited {
 
 .block {
   float: left;
-  width: 30%;
+  width: 33.3%;
   padding: 10px;
   border: 3px orange;
   box-sizing: border-box;
