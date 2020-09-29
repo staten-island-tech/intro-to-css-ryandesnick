@@ -16,6 +16,13 @@ h3 {
 
 .list1 {
   color: rgb(0, 191, 255);
+  font-style: italic;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  text-decoration: wavy;
+  text-transform: capitalize;
+  letter-spacing: 0.05em;
+  word-spacing: 10px;
 }
 
 p {
