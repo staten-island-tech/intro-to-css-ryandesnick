@@ -3,9 +3,7 @@ h1 {
 }
 
 body {
-  background-color: crimson;
-}
-
-p {
+  background-color: black;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
