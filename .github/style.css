@@ -43,3 +43,8 @@ a:hover {
 a:visited {
   color: orange;
 }
+
+.block {
+  float: left;
+  width: 33.3%;
+}
