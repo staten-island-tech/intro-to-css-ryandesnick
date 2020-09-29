@@ -31,3 +31,11 @@ p {
   border: 5px red solid;
   border-radius: 4px;
 }
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
